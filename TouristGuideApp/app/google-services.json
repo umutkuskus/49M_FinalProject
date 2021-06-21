@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "347587931903",
+    "project_id": "touristguide-210b1",
+    "storage_bucket": "touristguide-210b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347587931903:android:da7edc9a56d71ea8c6e6ca",
+        "android_client_info": {
+          "package_name": "com.aumutkus.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347587931903-7gi0ck3v07gq9nf67npkpbelccflob41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnjMKvBns4ouD_GH6oiVTzAFA4C1s3qaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347587931903-7gi0ck3v07gq9nf67npkpbelccflob41.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
